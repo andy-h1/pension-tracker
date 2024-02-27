@@ -12,11 +12,11 @@ export default {
 	proseWrap: 'always',
 	quoteProps: 'as-needed',
 	requirePragma: false,
-	semi: false,
+	semi: true,
 	singleAttributePerLine: false,
 	singleQuote: true,
 	tabWidth: 2,
-	trailingComma: 'all',
+	trailingComma: 'none',
 	useTabs: true,
 	overrides: [
 		{

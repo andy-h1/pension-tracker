@@ -1,11 +1,11 @@
-import PensionTrackerPage from './routes/PensionTrackerPage'
+import PensionTrackerPage from './routes/PensionTrackerPage';
 
 const App = () => {
 	return (
 		<>
 			<PensionTrackerPage />
 		</>
-	)
-}
+	);
+};
 
-export default App
+export default App;

@@ -13,9 +13,10 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-charts": "^3.0.0-beta.57",
     "react-dom": "^18.2.0",
-    "react-hook-form": "^7.50.1"
+    "react-hook-form": "^7.50.1",
+    "react-resizable": "^3.0.5",
+    "recharts": "^2.12.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.55",
